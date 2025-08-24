@@ -2,8 +2,8 @@
 
 ## Overview
 This project implements a computer vision pipeline using the Fruits-360 dataset for:
-- **Task 1 (Completed)**: Image classification with ResNet50 (transfer learning).
-- **Task 2 (In Progress)**: Object detection with YOLO (image selection done, annotation/training pending).
+- **Task 1**: Image classification with ResNet50 (transfer learning).
+- **Task 2**: Object detection with YOLO (image selection done, annotation/training pending).
 
 ## Dataset
 - [Fruits-360 Dataset](https://www.kaggle.com/datasets/moltean/fruits) from Kaggle, downloaded via `kagglehub`.
